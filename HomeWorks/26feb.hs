@@ -1,3 +1,5 @@
+{-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
+{-# HLINT ignore "Use tuple-section" #-}
 import Data.Char (isAlpha)
 -- Cadena que se trasnforma en una separador de palabras
 -- Input: x = "Hola Mundo"
